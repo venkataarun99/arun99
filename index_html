@@ -1,8 +1,55 @@
-<html>
-<head>
-<title> welcome to vitap university</title>
-</head>
-<body>
-<h1 style=Pcolor:blueP>Arun Gaddam</h1>
-</body>
-</html>
+h1
+{
+   color:pink;
+}
+h2
+{
+   color:green;
+}
+
+hr
+{
+   border-color:red;
+   border-width: 2px;
+   
+}
+div
+{
+  background-color:grey;
+
+}
+label
+{
+  color:white;
+  background-color:green;
+}
+h3
+{
+  color:green;
+}
+label2
+{
+  color:grey;
+  
+}
+label3
+{
+  color:red;
+ 
+}
+select
+{
+  
+  border-color: red  ;
+  padding-right:100px;
+  
+}
+label4
+{
+  margin=20px;
+  
+}
+th
+{
+ color:red;
+ }
